@@ -1,4 +1,4 @@
-## End to End Project On Retail Orders Data Using Python and MySQL
+# End to End Project On Retail Orders Data Using Python and MySQL
 
 ### Step 1: Configured Kaggle API and downloaded the `retail orders` dataset from Kaggle website using python
 
